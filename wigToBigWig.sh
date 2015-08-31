@@ -1,7 +1,7 @@
 #!/bin/bash
 # apply bigwig
-sourcedir=<>
-destdir=<>
+sourcedir=<contains wig files>
+destdir=<outputs bigwig files>
 
 for f in $sourcedir/*.data
 do      
